@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">To Do App</string>
+
+    <string name="action_settings">Ayarları Değiştir</string>
+    <string name="todoAppNotes">To-Do App Notları</string>
+    <string name="Username">KullanıcıAdı</string>
+    <string name="Password">Soyadı</string>
+    <string name="LoginBtn">Giriş Yap</string>
+    <string name="SignupBtn">Kayıt Ol</string>
+    <string name="LogoutBtn">Çıkış Yap</string>
+    <string name="Welcome">Hoşgeldin!</string>
+    <string name="loginorsignup">Giriş yap ya da Kaydol</string>
+    <string name="successLogin">Başarıyla giriş yaptınız</string>
+    <string name="noUser">Böyle bir kullanıcı yok, lütfen kaydolun</string>
+    <string name="completeForm">Lütfen kayıt formunu doldurun</string>
+    <string name="signUpErr">Kaydolma Hatası</string>
+    <string name="loggedAs">Olarak giriş yaptınız :</string>
+    <string name="hello_world">Merhaba Dünya</string>
+    <string name="Deleted">Silindi</string>
+    <string name="cancelled">Vazgeçildi</string>
+    <string name="enter">Notunu yaz</string>
+    <string name="load">Yükleniyor</string>
+    <string name="notesLoad">Notlar Yükleniyor</string>
+    <string name="ok">Tamam</string>
+    <string name="saveList">Yapılacaklar listesine kaydet</string>
+    <string name="saved">Kaydedildi</string>
+    <string name="update">Güncelle</string>
+    <string name="updateNote">Notunu Güncelle</string>
+    <string name="updated">Güncellendi</string>
+    <string name="wentWrong">Bir şeyler ters gitti</string>
+</resources>

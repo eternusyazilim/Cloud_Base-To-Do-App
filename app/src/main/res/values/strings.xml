@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">To Do App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Change Settings</string>
+    <string name="todoAppNotes">To-Do App Notes</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="LoginBtn">Login</string>
+    <string name="SignupBtn">Sign Up</string>
+    <string name="LogoutBtn">Log Out</string>
+    <string name="Welcome">Welcome!</string>
+    <string name="loginorsignup">Login or Signup</string>
+    <string name="successLogin">Successfully Logged in</string>
+    <string name="noUser">No such user exist, please signup</string>
+    <string name="completeForm">Please complete the sign up form</string>
+    <string name="signUpErr">Sign up Error</string>
+    <string name="loggedAs">"You are logged in as "</string>
+    <string name="Deleted">Deleted</string>
+    <string name="update">Update</string>
+    <string name="updated">Updated</string>
+    <string name="updateNote">Update your note!</string>
+    <string name="ok">Ok!</string>
+    <string name="wentWrong">Something went wrong</string>
+    <string name="notesLoad">Notes loading..</string>
+    <string name="load">Loading</string>
+    <string name="saved">Saved</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="enter">Enter</string>
+    <string name="saveList">Save to  To-Do List!</string>
+    <string name="myNotes">My Notes</string>
+</resources>
